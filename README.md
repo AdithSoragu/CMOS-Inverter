@@ -187,23 +187,6 @@ Schematic and Layout Match
 
 ---
 
-# Parasitic Extraction
-
-Parasitic extraction was successfully completed using Quantus Extraction Tool.
-
-### Extracted View
-
-```text
-av_extracted
-```
-
-This extracted view includes:
-- Parasitic capacitances
-- Interconnect effects
-- Accurate post-layout analysis
-
----
-
 # Truth Table
 
 | Input | Output |
