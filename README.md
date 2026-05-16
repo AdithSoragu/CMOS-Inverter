@@ -78,15 +78,6 @@ The CMOS inverter schematic was designed using:
 
 ---
 
-# Schematic Screenshot
-
-Add your schematic image here:
-
-```text
-Screenshots/Schematic.png
-```
-
----
 
 # Testbench Design
 
