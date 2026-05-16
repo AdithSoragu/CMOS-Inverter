@@ -320,18 +320,6 @@ Through this project, the following concepts were learned:
 
 ---
 
-# Future Enhancements
-
-This project can be extended to:
-- CMOS NAND Gate
-- CMOS NOR Gate
-- Ring Oscillator
-- SRAM Cell Design
-- Full Adder Design
-- Standard Cell Design
-
----
-
 # Conclusion
 
 This project successfully demonstrates the complete CMOS inverter design flow using Cadence Virtuoso. The schematic, simulation, layout, DRC, LVS, and extraction processes were completed successfully. The inverter shows correct switching behavior and proper layout implementation in 180nm CMOS technology.
