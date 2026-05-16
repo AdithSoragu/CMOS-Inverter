@@ -204,30 +204,6 @@ This extracted view includes:
 
 ---
 
-# Project Flow
-
-```text
-Schematic Design
-        ↓
-Symbol Creation
-        ↓
-Testbench Design
-        ↓
-Transient & DC Simulation
-        ↓
-Layout Design
-        ↓
-DRC Verification
-        ↓
-LVS Verification
-        ↓
-Parasitic Extraction
-        ↓
-Post-Layout Validation
-```
-
----
-
 # Truth Table
 
 | Input | Output |
