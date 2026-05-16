@@ -274,23 +274,6 @@ This repository contains:
 
 ---
 
-# Repository Structure
-
-```text
-CMOS-Inverter/
-│
-├── Schematic/
-├── Layout/
-├── Testbench/
-├── Waveforms/
-├── DRC/
-├── LVS/
-├── Extraction/
-├── Screenshots/
-└── README.md
-```
-
----
 
 # Results
 
