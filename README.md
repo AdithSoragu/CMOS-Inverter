@@ -342,8 +342,3 @@ This project successfully demonstrates the complete CMOS inverter design flow us
 
 Adith Soragu
 
----
-
-# License
-
-This project is created for educational and academic purposes.
