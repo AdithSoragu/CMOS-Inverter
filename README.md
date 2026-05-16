@@ -145,15 +145,6 @@ The layout includes:
 
 ---
 
-# Layout Features
-
-- Compact layout design
-- Proper routing connections
-- Shared gate structure
-- Efficient area utilization
-
----
-
 # DRC Verification
 
 Design Rule Check (DRC) was performed using Assura.
