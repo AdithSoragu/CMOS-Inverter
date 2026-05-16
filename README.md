@@ -260,21 +260,6 @@ CMOS inverters are widely used in:
 
 ---
 
-# Screenshots Included
-
-This repository contains:
-- CMOS inverter schematic
-- Testbench schematic
-- Transient response waveform
-- DC response waveform
-- Layout design
-- DRC clean report
-- LVS matched report
-- Quantus extraction result
-
----
-
-
 # Results
 
 The CMOS inverter was successfully:
