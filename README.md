@@ -131,19 +131,6 @@ The simulation waveforms show:
 
 ---
 
-# Layout Design
-
-The CMOS inverter layout was designed using Cadence Virtuoso Layout XL.
-
-The layout includes:
-- PMOS active region
-- NMOS active region
-- Polysilicon gates
-- Metal1 routing
-- Contacts and vias
-- VDD and GND rails
-
----
 
 # DRC Verification
 
