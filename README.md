@@ -1,5 +1,11 @@
 # CMOS Inverter Design and Layout using Cadence Virtuoso
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Cadence Virtuoso-green">
+  <img src="https://img.shields.io/badge/Simulation-Cadence Virtuoso-green">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+</p>
+
 ## Overview
 
 This project demonstrates the complete design flow of a CMOS Inverter using Cadence Virtuoso. The project includes schematic design, testbench creation, transient and DC analysis, layout implementation, parasitic extraction, DRC verification, and LVS verification.
